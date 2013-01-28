@@ -1,3 +1,4 @@
+alias git=hub
 alias glog='git log --format="%Cgreen%h%Creset %C(cyan)%an%Creset - %s %Cgreen(%cr)%Creset" --graph --date=relative'
 alias gpo='git push origin master'
 dqa() {
